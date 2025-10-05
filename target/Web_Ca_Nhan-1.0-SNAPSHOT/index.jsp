@@ -85,6 +85,14 @@
       Bai tap 8<br />
       <span></span>
     </button>
+    <button onclick="window.open('https://ch12-extest-1.onrender.com', '_blank')">
+      Bai tap 12<br />
+      <span></span>
+    </button> 
+    <button onclick="window.open('https://ch13-ex1-j4gw.onrender.com', '_blank')">
+      Bai tap 13<br />
+      <span></span>
+    </button>
   </div>
 </section>
 <section  class="projects">
